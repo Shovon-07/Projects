@@ -1,4 +1,4 @@
-=> Features and Implemented Data Structures
+=> Features and Implemented Data Structures :
 Shortest path finding : 
 Location management : 
 Favorite locations/ wish list/ want-to-go : 
