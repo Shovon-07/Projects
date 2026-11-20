@@ -541,6 +541,8 @@ footer h3 {
     grid-template-columns: 1fr;
     height: auto;
     max-height: none;
+    gap: 30px;
+    margin-bottom: 30px;
   }
   .map-container {
     height: 450px;
@@ -561,9 +563,17 @@ footer h3 {
 }
 
 @media (max-width: 640px) {
+  .controlPanel {
+    margin-bottom: 10px;
+    padding: 12px 14px;
+  }
   .selector {
     flex-direction: column;
     align-items: stretch;
+    gap: 20px;
+  }
+  .selector select {
+    padding: 8px 14px;
   }
   .wishList .list button,
   .wishList .list-selector h3,

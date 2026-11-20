@@ -1,3 +1,4 @@
-Shortest Path Navigation : Graph + Priority Queue
-Location Management : Array / Vector
-Favorite Locations : Linked List
+=> Features and Implemented Data Structures :
+Shortest path finding : 
+Location management : 
+Favorite locations/ wish list/ want-to-go : 
